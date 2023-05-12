@@ -2,7 +2,7 @@
 
 # Sobre
 
-<p>Redesign da Landing Page do Banco neon sem dúvidas é um dos projetos mais bem elaborados e organizados que já tive a oportunidade de praticar ao longo da minha jornada no front-end. Sem dúvidas é a chave para o sucesso de qualquer projeto, seguir padrões realizados como este.</p>
+<p><strong>Redesign da Landing Page do Banco Neon</strong> sem dúvidas é um dos projetos mais bem elaborados e organizados que já tive a oportunidade de praticar ao longo da minha jornada no front-end. Sem dúvidas é a chave para o sucesso de qualquer projeto, seguir padrões realizados como este.</p>
 
 <p>Foi pensada para atender qualquer necessidade em relação à sua responsividade, ou seja, ela se ajustará perfeitamente em qualquer dispositivo móvel.</p>
 
@@ -29,6 +29,6 @@
 </p>
 
 <br>
-<p>Link funcional do projeto: <a href="https://paulinhorox.github.io/beautysalon/">Clique aqui</a></p>
+<p>Link funcional do projeto: <a href="https://lp-neon-bank.netlify.app/">Clique aqui</a></p>
 
 <p font-size="10">Projeto desenvolvido no curso Codeboost</p>
